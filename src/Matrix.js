@@ -18,7 +18,6 @@ export default class Matrix extends Component {
     };
   }
 
-  //! Passes in the previous state?
   // Callback
   // attr_writer
   setColor = newColor => {
